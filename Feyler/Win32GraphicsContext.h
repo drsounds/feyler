@@ -1,0 +1,71 @@
+#pragma once
+
+#ifndef H_WIN32SPIDER
+#define H_WIN32SPIDER
+
+#include <Windows.h>
+#include <wingdi.h>
+#include <map>
+#include "Color.h"
+#include "Element.h"
+#include "GraphicsContext.h"
+#include "InputEventArgs.h"
+#include "Bounds.h"
+#include <map>
+using namespace std;
+LRESULT CALLBACK subEditProc(HWND wnd, UINT msg, WPARAM wParam, LPARAM lParam);
+namespace spider {
+
+    class WindowElement;
+	COLORREF toWin32Color(spider::Color color);
+	class Win32GraphicsContext : public GraphicsContext {
+	protected:
+		HDC hDC;
+		HWND hWnd;
+		HINSTANCE hInst;								// current instance
+		HDC memHDC;
+		HWND hWnd;
+	public:
+		void setHandle(HWND hWnd) {
+			this->hWnd = hWnd;
+		}
+		HBITMAP bufferBitmap;
+		void draw();
+		ATOM MyRegisterClass(HINSTANCE hInstance);
+		BOOL InitInstance(HINSTANCE hInstance, int nCmdShow);
+		HDC getMemDC() {
+			return this->memHDC;
+		}
+		HWND getHandle() {
+			return this->hWnd;
+		}
+		void invalidateRegion(rectangle rect);		
+	    LPPOINT currentOffset;
+	    void restoreOrigo();
+		bounds getBounds();
+	    HRGN currentRgn;
+		static map<Element *, HWND> *controls;
+		static map<HWND, Element *> *hwnds;
+		Win32GraphicsContext(HWND hWnd, HDC hDC);
+		~Win32GraphicsContext();
+        Image *loadImage(const string& bitmap);
+
+        virtual void drawImagePart(Image *image, int x, int y, int width, int height, int x1, int y1, int x2, int y2);
+        virtual void drawSkinImage(string resourceId, int x, int y, int w, int h);
+		void setClip(rectangle rect);
+		void drawLine(int x1, int y1, int w, int h, spider::Color *color);
+		void drawImage(Image *image, int x1, int y1, int w, int h);
+		void drawRectangle(int x1, int y1, int w, int h, spider::Color *color);
+		void fillRectangle(int x1, int y1, int w, int h, spider::Color *color);
+        void drawControl(char *control, Element *elm, int x, int y, int w, int h);
+		void invalidateRegion(rectangle region);
+		void drawString(char *text, spider::FontStyle *fontStyle, spider::Color *color,int x, int y, int w, int h);
+		void drawInputElement(Element *elm, int x, int y, int w, int h);
+		void setFontStyle(spider::FontStyle *fs);
+		void setOrigo(const int& x, const int& y);
+		void drawHTMLText(char *html, FontStyle *fs, Color *color, int x, int y, int w, int h);
+		rectangle measureString(char *text, spider::FontStyle *font);
+		virtual void declipRect();
+	};
+};
+#endif

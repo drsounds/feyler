@@ -1,0 +1,161 @@
+﻿  stdafx.cpp
+  AppHeaderElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\appheaderelement.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ArtistOverviewView.cpp
+c:\users\alexander\source\repos\feyler\feyler\artistoverviewview.cpp(20): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ArtistView.cpp
+c:\users\alexander\source\repos\feyler\feyler\artistview.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  BoxElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\boxelement.cpp(37): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  boxmodel.cpp
+c:\users\alexander\source\repos\feyler\feyler\boxmodel.cpp(9): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ButtonElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\buttonelement.cpp(39): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Color.cpp
+c:\users\alexander\source\repos\feyler\feyler\color.cpp(85): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ContainerViewElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\containerviewelement.cpp(22): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DoctrineView.cpp
+c:\users\alexander\source\repos\feyler\feyler\doctrineview.cpp(47): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DOMViewElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\domviewelement.cpp(157): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Element.cpp
+c:\users\alexander\source\repos\feyler\feyler\element.cpp(476): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Entity.cpp
+c:\users\alexander\source\repos\feyler\feyler\entity.cpp(41): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  EventArgs.cpp
+c:\users\alexander\source\repos\feyler\feyler\eventargs.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Feyler.cpp
+  FlowElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\flowelement.cpp(33): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  FontStyle.cpp
+c:\users\alexander\source\repos\feyler\feyler\fontstyle.cpp(5): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  GraphicsContext.cpp
+c:\users\alexander\source\repos\feyler\feyler\graphicscontext.cpp(9): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  HBoxElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\hboxelement.cpp(98): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  HeaderElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\headerelement.cpp(50): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  HTML.cpp
+c:\users\alexander\source\repos\feyler\feyler\html.cpp(26): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
+  Compiling...
+  Image.cpp
+c:\users\alexander\source\repos\feyler\feyler\image.cpp(192): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ImageElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\imageelement.cpp(16): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ImageLibrary.cpp
+c:\users\alexander\source\repos\feyler\feyler\imagelibrary.cpp(20): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  InfoElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\infoelement.cpp(71): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  InputElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\inputelement.cpp(22): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  InputEventArgs.cpp
+c:\users\alexander\source\repos\feyler\feyler\inputeventargs.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  IRequestHandler.cpp
+c:\users\alexander\source\repos\feyler\feyler\irequesthandler.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  libspider.cpp
+c:\users\alexander\source\repos\feyler\feyler\libspider.cpp(18): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  LinkElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\linkelement.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  main.cpp
+c:\users\alexander\source\repos\feyler\feyler\main.cpp(2): warning C4005: '_UNICODE': macro redefinition
+  c:\users\alexander\source\repos\feyler\feyler\main.cpp(2): note: command-line arguments:  see previous definition of '_UNICODE'
+c:\users\alexander\source\repos\feyler\feyler\main.cpp(4): warning C4005: 'UNICODE': macro redefinition
+  c:\users\alexander\source\repos\feyler\feyler\main.cpp(4): note: command-line arguments:  see previous definition of 'UNICODE'
+c:\users\alexander\source\repos\feyler\feyler\main.cpp(238): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MainWindowElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\mainwindowelement.cpp(155): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MockTableDataSource.cpp
+c:\users\alexander\source\repos\feyler\feyler\mocktabledatasource.cpp(84): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  MouseEventArgs.cpp
+c:\users\alexander\source\repos\feyler\feyler\mouseeventargs.cpp(5): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Node.cpp
+c:\users\alexander\source\repos\feyler\feyler\node.cpp(90): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Observable.cpp
+c:\users\alexander\source\repos\feyler\feyler\observable.cpp(32): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Observer.cpp
+c:\users\alexander\source\repos\feyler\feyler\observer.cpp(5): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  PlayQueueView.cpp
+c:\users\alexander\source\repos\feyler\feyler\playqueueview.cpp(42): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Request.cpp
+c:\users\alexander\source\repos\feyler\feyler\request.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Resource.cpp
+c:\users\alexander\source\repos\feyler\feyler\resource.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ResourceElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\resourceelement.cpp(31): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
+  Compiling...
+  Response.cpp
+c:\users\alexander\source\repos\feyler\feyler\response.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Server.cpp
+c:\users\alexander\source\repos\feyler\feyler\server.cpp(19): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Skin.cpp
+c:\users\alexander\source\repos\feyler\feyler\skin.cpp(81): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SpiderServer.cpp
+c:\users\alexander\source\repos\feyler\feyler\spiderserver.cpp(12): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SplitterElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\splitterelement.cpp(16): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Spoyler.cpp
+c:\users\alexander\source\repos\feyler\feyler\spoyler.cpp(3): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SPType.cpp
+c:\users\alexander\source\repos\feyler\feyler\sptype.cpp(4): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  StandardTableDataSource.cpp
+c:\users\alexander\source\repos\feyler\feyler\standardtabledatasource.cpp(61): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  StartView.cpp
+c:\users\alexander\source\repos\feyler\feyler\startview.cpp(34): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Stylesheet.cpp
+c:\users\alexander\source\repos\feyler\feyler\stylesheet.cpp(43): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TabBarElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\tabbarelement.cpp(165): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TabbarView.cpp
+c:\users\alexander\source\repos\feyler\feyler\tabbarview.cpp(12): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TabbarViewElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\tabbarviewelement.cpp(42): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TableCell.cpp
+c:\users\alexander\source\repos\feyler\feyler\tablecell.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TableColumn.cpp
+c:\users\alexander\source\repos\feyler\feyler\tablecolumn.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TableColumnHeader.cpp
+c:\users\alexander\source\repos\feyler\feyler\tablecolumnheader.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TableDataSource.cpp
+c:\users\alexander\source\repos\feyler\feyler\tabledatasource.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TableElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\tableelement.cpp(106): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TableRow.cpp
+c:\users\alexander\source\repos\feyler\feyler\tablerow.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TableRowElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\tablerowelement.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
+  Compiling...
+  TextElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\textelement.cpp(19): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TitleElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\titleelement.cpp(44): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TopListView.cpp
+c:\users\alexander\source\repos\feyler\feyler\toplistview.cpp(60): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TreeAdapter.cpp
+c:\users\alexander\source\repos\feyler\feyler\treeadapter.cpp(4): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TreeItem.cpp
+c:\users\alexander\source\repos\feyler\feyler\treeitem.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  TreeViewElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\treeviewelement.cpp(128): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Uri.cpp
+c:\users\alexander\source\repos\feyler\feyler\uri.cpp(11): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  UserView.cpp
+c:\users\alexander\source\repos\feyler\feyler\userview.cpp(50): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  VBox.cpp
+c:\users\alexander\source\repos\feyler\feyler\vbox.cpp(12): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  VBoxElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\vboxelement.cpp(109): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ViewElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\viewelement.cpp(61): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ViewStackElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\viewstackelement.cpp(152): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  WhatsNewView.cpp
+c:\users\alexander\source\repos\feyler\feyler\whatsnewview.cpp(98): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Win32GraphicsContext.cpp
+c:\users\alexander\source\repos\feyler\feyler\win32graphicscontext.cpp(357): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  WindowElement.cpp
+c:\users\alexander\source\repos\feyler\feyler\windowelement.cpp(35): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
